@@ -51,10 +51,10 @@
     <Compile Include="OpinionLexicon.cs" />
     <Compile Include="Pipeline.cs" />
     <Compile Include="PipelineTask.cs" />
+    <Compile Include="PostProcessors\DeleterPostProcessor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="PostProcessors\" />
     <Folder Include="PreProcessors\" />
     <Folder Include="Resources\" />
     <Folder Include="TextExtractors\" />
