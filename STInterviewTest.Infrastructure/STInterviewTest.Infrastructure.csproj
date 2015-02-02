@@ -58,6 +58,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TextExtractors\BaseTextExtractor.cs" />
     <Compile Include="TextExtractors\ITextExtractor.cs" />
+    <Compile Include="TextExtractors\PdfFileTextExtractor.cs" />
+    <Compile Include="TextExtractors\TxtFileTextExtractor.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
