@@ -45,6 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Analyzers\OpinionAnalyzer.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="IProcessPipelineTask.cs" />
     <Compile Include="OpinionLexicon.cs" />
@@ -53,7 +54,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Analyzers\" />
     <Folder Include="PostProcessors\" />
     <Folder Include="PreProcessors\" />
     <Folder Include="Resources\" />
