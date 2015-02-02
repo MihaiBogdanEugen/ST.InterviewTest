@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace STInterviewTest.Infrastructure
 {
-    public class Class1
+    class Pipeline
     {
     }
 }

@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>7819e10d-165e-4a99-a756-3cf7c994af04</ProjectGuid>
+    <ProjectGuid>{EA5F835E-415F-4A20-98EE-5AF261B6991B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>STInterviewTest.Infrastructure.Tests</RootNamespace>
