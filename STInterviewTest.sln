@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STInterviewTest.ClassicAnal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STInterviewTest.RestfulAnalyzerService", "STInterviewTest.RestfulAnalyzerService\STInterviewTest.RestfulAnalyzerService.csproj", "{FC963499-E700-41D7-9BC2-50895B82DBB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STInterviewTest.ClassicAnalyzerService.SelfHost", "STInterviewTest.ClassicAnalyzerService.SelfHost\STInterviewTest.ClassicAnalyzerService.SelfHost.csproj", "{F314383F-EC30-4C60-AE88-F0C34C18E17E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STInterviewTest.RestfulAnalyzerService.SelfHost", "STInterviewTest.RestfulAnalyzerService.SelfHost\STInterviewTest.RestfulAnalyzerService.SelfHost.csproj", "{36881D19-06FC-4412-B8AC-9E2263CDF418}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{FC963499-E700-41D7-9BC2-50895B82DBB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC963499-E700-41D7-9BC2-50895B82DBB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC963499-E700-41D7-9BC2-50895B82DBB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F314383F-EC30-4C60-AE88-F0C34C18E17E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F314383F-EC30-4C60-AE88-F0C34C18E17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F314383F-EC30-4C60-AE88-F0C34C18E17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F314383F-EC30-4C60-AE88-F0C34C18E17E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36881D19-06FC-4412-B8AC-9E2263CDF418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36881D19-06FC-4412-B8AC-9E2263CDF418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36881D19-06FC-4412-B8AC-9E2263CDF418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36881D19-06FC-4412-B8AC-9E2263CDF418}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
