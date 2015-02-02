@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace STInterviewTest.Infrastructure.Tests
 {
     [TestClass]
-    public class UnitTest1
+    public class PipelineTest
     {
         [TestMethod]
         public void TestMethod1()
