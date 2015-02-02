@@ -56,7 +56,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UnzipperPreProcessorTest.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\STInterviewTest.Infrastructure\STInterviewTest.Infrastructure.csproj">
+      <Project>{67D55D34-B017-489B-81E6-055A1712DDEA}</Project>
+      <Name>STInterviewTest.Infrastructure</Name>
+    </ProjectReference>
+  </ItemGroup>
   <ItemGroup>
     <None Include="Files\sample1.pdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
