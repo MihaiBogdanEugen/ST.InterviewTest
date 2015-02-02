@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STInterviewTest.Infrastruct
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STInterviewTest.Infrastructure.Tests", "STInterviewTest.Infrastructure.Tests\STInterviewTest.Infrastructure.Tests.csproj", "{EA5F835E-415F-4A20-98EE-5AF261B6991B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STInterviewTest.ClassicAnalyzerService", "STInterviewTest.ClassicAnalyzerService\STInterviewTest.ClassicAnalyzerService.csproj", "{198D269A-EB29-4DE1-B412-A5A2AD16767B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EA5F835E-415F-4A20-98EE-5AF261B6991B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA5F835E-415F-4A20-98EE-5AF261B6991B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA5F835E-415F-4A20-98EE-5AF261B6991B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{198D269A-EB29-4DE1-B412-A5A2AD16767B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198D269A-EB29-4DE1-B412-A5A2AD16767B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198D269A-EB29-4DE1-B412-A5A2AD16767B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198D269A-EB29-4DE1-B412-A5A2AD16767B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
